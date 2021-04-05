@@ -14,9 +14,11 @@ I am an MS student majoring in Computer Engineering at Northwestern University, 
 
 My research interests include:
 
-**Machine Learning
+Machine Learning
+
 Neural Network Architecture 
-Quality Assurance**
+
+Quality Assurance
 
 My hobby includes hiking, natural language learning(yes, you can talk with me in Chinese, English, Spanish, Japanese, and a little Korean) and traveling.
 
