@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yuanzhe Jin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "MS in Computer Engineering at Northwestern University" #"DPhil in Engineering Science at the University of Oxford"
   location         : "Chicago"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -107,7 +107,7 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
+  steam            : 
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
