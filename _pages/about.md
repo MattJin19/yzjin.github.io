@@ -23,6 +23,7 @@ Quality Assurance
 My hobby includes hiking, natural language learning(yes, you can talk with me in Chinese, English, Spanish, Japanese, and a little Korean) and traveling.
 
 I am also interested in card games and using reinforce learning like GAN on these games. If you are interested, you can contact me in
+
 Email: yzjin at u dot northwestern dot edu.
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=PMdgG1ndfGcn3xMms6C73KIJOVFI3awa66USOxL7suM"></script>
+<a href="https://clustrmaps.com/site/1bh5b"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=PMdgG1ndfGcn3xMms6C73KIJOVFI3awa66USOxL7suM&cl=ffffff" /></a>
