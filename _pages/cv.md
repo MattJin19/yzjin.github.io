@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+EDUCATION
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* DPhil in Engineering Science, University of Oxford, 2021 - 2025 (expected)
+* M.S. in Computer Engineering, GitHub University, 2019 - 2021
+* B.E. in Electrical Engineering, Zhejiang University, 2015 - 2019
 
-Work experience
+RESEARCH AND INTERNSHIP
 ======
 * Summer 2015: Research Assistant
   * Github University
@@ -27,33 +27,17 @@ Work experience
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
+SKILLS
 ======
 * Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 
 
-Publications
+PUBLICATIONS
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+PRIZES & AWARDS
 ======
 * Currently signed in to 43 different slack teams
