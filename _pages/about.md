@@ -12,13 +12,7 @@ Hello, welcome to my homepage!
 ======
 I am an MS student majoring in Computer Engineering at Northwestern University, working as a research assistant in IDEAS Lab. I am also an invited editor for Springer.
 
-My research interests include:
-
-Machine Learning
-
-Neural Network Architecture 
-
-Quality Assurance
+My research interests include: Machine Learning, Neural Network Architecture, Quality Assurance
 
 My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. If you are interested, you can contact me in
 
