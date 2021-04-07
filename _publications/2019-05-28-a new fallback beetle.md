@@ -3,6 +3,7 @@ title: "A new fallback beetle antennae search algorithm for path planning of mob
 collection: publications
 permalink: /publication/2019-05-28-a new fallback beetle
 date: 2019-05-28
+excerpt: ''
 venue: 'Soft Computing, Springer'
 paperurl: 'https://link.springer.com/article/10.1007/s00500-019-04067-3'
 authors:'Qing Wu, Hao Lin, Yuanzhe Jin, Zeyu Chen, Shuai Li & Dechao Chen' 
