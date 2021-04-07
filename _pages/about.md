@@ -18,6 +18,7 @@ My hobby includes hiking, natural language learning(English, Spanish, Japanese, 
 Email: yzjin at u dot northwestern dot edu.
 
 <!--img src="/images/group_photo.jpg"-->
+
 Award
 ======
 Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
