@@ -14,9 +14,16 @@ I am an MS student majoring in Computer Engineering at Northwestern University, 
 
 My research interests include: Machine Learning, Neural Network Architecture, Quality Assurance
 
-My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. If you are interested, you can contact me in
-
+My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. If you are interested, you can contact me in  
 Email: yzjin at u dot northwestern dot edu.
+
+<!--img src="/images/group_photo.jpg"-->
+Award
+======
+Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
+Scholarship for Outstanding Merits, Zhejiang University, 2016  
+The Third Award of the FPGA Application Design Competition, 2017  
+Winner of East China Division FPGA Application Design Competition, 2016  
 
 Global Visitor
 ======
