@@ -1,0 +1,14 @@
+---
+title: "A new fallback beetle antennae search algorithm for path planning of mobile robots with collision-free capability"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2019-05-28
+venue: 'Soft Computing, Springer'
+paperurl: 'https://link.springer.com/article/10.1007/s00500-019-04067-3'
+authors:'Qing Wu, Hao Lin, Yuanzhe Jin, Zeyu Chen, Shuai Li & Dechao Chen' 
+citation: 'Wu, Q., Lin, H., Jin, Y. et al. A new fallback beetle antennae search algorithm for path planning of mobile robots with collision-free capability. Soft Comput 24, 2369–2380 (2020). https://doi.org/10.1007/s00500-019-04067-3'
+---
+With the development of technology, mobile robots are becoming more and more common in industrial production and daily life. Various rules are set to ensure that mobile robots can move without collision. This paper proposes a novel intelligent optimization algorithm, named fallback beetle antennae search algorithm. Based on the analysis of biological habits, when the creature enters blind alley during the foraging process, it will retreat a distance and then restart the search process. We introduce a fallback mechanism in the traditional beetle antenna search algorithm. In addition, the proposed algorithm possesses the characteristic of low time complexity. It can plan a collision-free path in a short period of time. Moreover, the effectiveness and superiority of the algorithm are verified by simulations in different types of environments and comparisons with existing path planning algorithms.
+
+Recommended citation: Wu, Q., Lin, H., Jin, Y. et al. A new fallback beetle antennae search algorithm for path planning of mobile robots with collision-free capability. Soft Comput 24, 2369–2380 (2020). https://doi.org/10.1007/s00500-019-04067-3
