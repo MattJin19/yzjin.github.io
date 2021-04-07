@@ -6,7 +6,7 @@ date: 2019-04-12
 excerpt: ''
 venue: 'Sensors (Basel)'
 authors: 'Qing Wu, Hao Lin, Yuanzhe Jin, Zeyu Chen, Shuai Li & Dechao Chen'
-paperurl:'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6514918/'
+paperurl: 'https://www.aclweb.org/anthology/2020.sdp-1.35.pdf'
 citation: 'Wu, Q., Lin, H., Jin, Y. et al. A new fallback beetle antennae search algorithm for path planning of mobile robots with collision-free capability. Soft Comput 24, 2369–2380 (2020). https://doi.org/10.1007/s00500-019-04067-3'
 show_year: false
 ---
