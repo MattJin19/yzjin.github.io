@@ -3,6 +3,7 @@ title: "Intelligent Beetle Antennae Search for UAV Sensing and Avoidance of Obst
 permalink: /publication/2019-04-12-Intelligent Beetle Antennae Search
 collection: publications
 date: 2019-04-12
+excerpt: ''
 venue: 'Sensors (Basel)'
 authors: 'Qing Wu, Xudong Shen, Yuanzhe Jin, Zeyu Chen, Shuai Li, Ameer Hamza Khan, and Dechao Chen'
 paperurl:'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6514918/'
