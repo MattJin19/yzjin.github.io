@@ -17,11 +17,18 @@ EDUCATION
 
 RESEARCH AND INTERNSHIP
 ======
-* Summer 2019: Research Assistant
+* Graduate Research Assistant                                             Sept.2020 - Present
+  * Design Automation of Intelligent Systems Lab, Northwestern University, Evanston, IL, USA
+  * Project Name: DSRC &V2X in Connected and Automated Vehicles
+  * Use Sumo to predict the behavior between autonomous vehicles and improve efficiency in traffic
+* Visiting Research Assistant                                             Jun.-Sept.2020
   * Information Science Institute, University of Southern California, Los Angeles, CA, USA
   * Project Name: Improve and Extend the CIFT Software Application on FPGA Platform 
   * Assisted in adding support for tracking and reporting device coverage information on CIFT
-
+* Graduate Research Assistant					           	                        Oct.2019 - Jun.2020
+  * Northwestern-Argonne Institute of Science and Engineering, Chicago, IL, USA
+  * Research Topic: Next-Generation Approach to Quantifying and Characterizing Land Use Change
+  * Used Python and Keras to create data sets from NAIP. Built a novel neural network running on Google Colab and trained the classifier
 
 RESEARCH SKILLS
 ======
