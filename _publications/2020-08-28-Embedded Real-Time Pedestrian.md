@@ -7,7 +7,6 @@ date: 2020-08-28
 venue: 'ICECCE 2020'
 paperurl: 'https://ieeexplore.ieee.org/document/9179384'
 authors: 'Yuanzhe Jin, Yixun Wen, Jingting Liang'
-citation: 'Y. Jin, Y. Wen and J. Liang, "Embedded Real-Time Pedestrian Detection System Using YOLO Optimized by LNN," 2020 International Conference on Electrical, Communication, and Computer Engineering (ICECCE), Istanbul, Turkey, 2020, pp. 1-5, doi: 10.1109/ICECCE49384.2020.9179384.'
 slide: 
 award: 
 show_year: false
