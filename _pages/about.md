@@ -10,12 +10,9 @@ redirect_from:
 
 Bienvenido, Welcome to Yuanzhe's homepage! こんにちは! 
 ======
-I am an MS student majoring in Computer Engineering at Northwestern University, working as a research assistant in IDEAS Lab. I am also an invited editor for Springer.
-
-My research interests include: Machine Learning, Neural Network Architecture, Quality Assurance
-
-My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. If you are interested, you can contact me in  
-Email: yzjin at u dot northwestern dot edu.
+I am an MS student majoring in Computer Engineering at Northwestern University, working as a research assistant in IDEAS Lab. I am also an invited editor for Springer.<br>
+My research interests include: Machine Learning, Neural Network Architecture, Quality Assurance<br>
+My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. 
 
 Award
 ======
