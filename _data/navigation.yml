@@ -4,19 +4,13 @@ main:
     url: /cv/
     
   - title: "Publications"
-    url: /publications/     
-    
-  - title: "Presentations"
-    url: /portfolio/
-    
-   - title: "Contact"
-     url: /talks/    
+    url: /publications/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
-        
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+  - title: "Presentations"
+    url: /profolio/
+
+  #- title: "Awards"
+  # url: /awards/
+
+  - title: "Contact"
+    url: /contact/
