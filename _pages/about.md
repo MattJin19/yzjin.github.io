@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, welcome to my homepage!
+Bienvenido, Welcome to Yuanzhe's homepage! こんにちは! 
 ======
 I am an MS student majoring in Computer Engineering at Northwestern University, working as a research assistant in IDEAS Lab. I am also an invited editor for Springer.
 
