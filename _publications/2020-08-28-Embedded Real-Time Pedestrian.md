@@ -4,8 +4,7 @@ collection: publications
 permalink: /publication/2020-08-28-Embedded Real-Time Pedestrian
 excerpt: ''
 date: 2020-08-28
-venue: 'ICECCE 2020'
-paperurl: 'https://ieeexplore.ieee.org/document/9179384'
+venue: 'ICECCE 2020, Istanbul Turkey'
 authors: 'Yuanzhe Jin, Yixun Wen, Jingting Liang'
 slide: 
 award: 
