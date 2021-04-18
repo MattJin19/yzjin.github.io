@@ -15,6 +15,7 @@ My research interests include: Machine Learning, Neural Network Architecture, Qu
 My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. 
 
 <img src="/images/profile.JPG">
+In Boston, 2019
   
 Award
 ======
