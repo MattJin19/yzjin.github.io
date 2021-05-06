@@ -16,7 +16,7 @@ Machine Learning, Neural Network Architecture, Quality Assurance<br>
 
 My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. 
 
-<img src="/images/foo-bar-identity.jpg">
+<img src="/images/group_foto.jpg">
 Photo Taken In Boston, 2019
   
 Award
