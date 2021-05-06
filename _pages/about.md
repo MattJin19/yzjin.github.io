@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenido, Welcome to Yuanzhe's homepage! こんにちは! 
+Bienvenido, Welcome to Yuanzhe's homepage! 
 ======
 I am an MS student majoring in Computer Engineering at Northwestern University, working as a research assistant in IDEAS Lab. I am also an invited editor for Springer.<br>
-My research interests include: Machine Learning, Neural Network Architecture, Quality Assurance<br>
+My research interests include: <br>
+Machine Learning, Neural Network Architecture, Quality Assurance<br>
 My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. 
 
 <img src="/images/profile.JPG">
@@ -26,5 +27,4 @@ Winner of East China Division FPGA Application Design Competition, 2016
 
 Global Visitor
 ======
-
 <a href="https://clustrmaps.com/site/1bh5b"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=PMdgG1ndfGcn3xMms6C73KIJOVFI3awa66USOxL7suM&cl=ffffff" /></a>
