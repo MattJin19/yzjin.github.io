@@ -10,12 +10,13 @@ redirect_from:
 
 Bienvenido, Welcome to Yuanzhe's Homepage! 
 ======
-I am an MS student majoring in Computer Engineering at Northwestern University, working as a research assistant in IDEAS Lab. My current work is using machine learning methods to predict the behavior of autonomous vehicles in different traffic scenarios including ramp merging, intersection and platooning. I am also an invited editor for Springer and IEEE Access. <br>
+I am an MS student majoring in Computer Engineering at Northwestern University, working as a research assistant in IDEAS Lab. My current work is using machine learning methods to predict the behavior of autonomous vehicles in different traffic scenarios including ramp merging, intersection and platooning. I am also an invited editor for Springer and IEEE Access. 
+
 My research interests include: 
  * Machine Learning
  * Quality Assurance
  * Computer Vision
-<br>
+
 My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. 
 
 Award
