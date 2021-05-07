@@ -16,8 +16,6 @@ Machine Learning, Neural Network Architecture, Quality Assurance<br>
 <br>
 My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), card games and traveling. 
 
-<img src="/images/group_photo.jpg">
-  
 Award
 ======
 Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
