@@ -1,5 +1,5 @@
 ---
-title: "2020 IEEE 9^th Global Conference on Consumer Electronics"
+title: "2020 IEEE 9th Global Conference on Consumer Electronics (IGCCE 2020)"
 excerpt: ""
 collection: Experience
 ---
