@@ -1,5 +1,5 @@
 ---
-title: "6^th International Conference on Science and Technology"
+title: "6th International Conference on Science and Technology (ICST 2020)"
 excerpt: " "
 collection: Experience
 ---
