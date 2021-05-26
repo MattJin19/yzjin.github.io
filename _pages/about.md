@@ -18,6 +18,7 @@ My research interests include:
  * Computer Vision
 
 My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), reading novels and traveling. The pronunciation of my name in phonetic spelling is tɕīn ɥæ̌n ʈʂɤ́ː. 
+
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⢀⣤⣶⣶⣶⣤⣄⡀⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣠⣿⣿⣿⣿⣿⣿⣿⣿⣦⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
 ⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠶⠤⠄⠄⠄⠄⠄⠄⠄⠄⠄⠄
