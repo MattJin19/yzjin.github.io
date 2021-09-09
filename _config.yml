@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Yuanzhe Jin"
   avatar           : "profile.png"
-  bio              : "MS in Computer Engineering at Northwestern University" #"DPhil in Engineering Science at the University of Oxford"
-  location         : "Chicago"
+  bio              : "DPhil in Engineering Science at the University of Oxford" 
+  location         : "Oxford, England"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
