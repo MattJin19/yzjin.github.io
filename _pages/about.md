@@ -42,9 +42,3 @@ Winner of East China Division FPGA Application Design Competition, 2016
 Global Visitor
 ======
 <a href="https://clustrmaps.com/site/1bh5b"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=PMdgG1ndfGcn3xMms6C73KIJOVFI3awa66USOxL7suM&cl=ffffff" /></a>
-
-
-<script language=javascript>var Loaded=false;var Flag=false;</script>
-<script src="http://files.cometsystems.com/javascript/lc2000.js"
-language=javascript></script>
-<script language=javascript>if(Loaded&&Flag)TheCometCursor("cd_electric",0,626);</script>
