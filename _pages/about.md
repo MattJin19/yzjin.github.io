@@ -10,7 +10,7 @@ redirect_from:
 
 Bienvenido, Welcome to Yuanzhe's Homepage! 
 ======
-I am a Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a research assistant in Oxford e-Research Centre. My current work forcus on quality assurance in machine learning application. I am also an invited editor for Springer and IEEE Access. 
+I am a Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a research assistant in Oxford e-Research Centre. My current work forcus on quality assurance in machine learning application. I am also an invited editor for Springer, IEEE Access and a student memeber in IEEE Region 10(Asian-Pacific). 
 
 My research interests include: 
  * Machine Learning
