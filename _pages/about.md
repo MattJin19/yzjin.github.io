@@ -19,9 +19,6 @@ My research interests include:
 
 My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), reading novels and traveling. The pronunciation of my name in phonetic spelling is ɥæ̌n-ʈʂɤ́ː tɕīn. 
 
-<img src="/images/my_photo.jpg">
-<!-- ![My photo](https://github.com/MattJin19/yzjin.github.io/tree/master/images/my_photo.jpg) -->
-
 Award
 ======
 Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
