@@ -11,13 +11,16 @@ redirect_from:
 
 EDUCATION
 ======
-* DPhil in Engineering Science, University of Oxford, 2021 - 2025 (expected)
+* Ph.D. in Computer Engineering, University of Oxford, 2021 - 2025 (expected)
 * M.S. in Computer Engineering, Northwestern University, 2019 - 2021
 * B.E. in Electrical Engineering, Zhejiang University, 2015 - 2019
 
 RESEARCH AND INTERNSHIP
 ======
-* Graduate Research Assistant                                             Sept.2020 - Present
+* Postgraduate researcher                                            Sept.2021 - Present
+	* Oxford e-Research Centre, University of Oxford, Oxford, England, UK
+  * Apply quality assurance in machine learning applications of computer vision domain.
+* Graduate Research Assistant                                             Sept.2020 - Aug.2021
   * Design Automation of Intelligent Systems Lab, Northwestern University, Evanston, IL, USA
   * Project Name: DSRC &V2X in Connected and Automated Vehicles
   * Use machine learning to predict the behavior between autonomous vehicles and improve efficiency in traffic
@@ -32,9 +35,5 @@ RESEARCH AND INTERNSHIP
 
 RESEARCH SKILLS
 ======
-* Lab skills: C -- Python -- Keras -- Verilog -- FPGA -- LaTeX -- Git -- Matlab
-* Language skills: Chinese (native), English (advanced), Spanish (intermediate), Japanese (entry) 
-
-CV in PDF
-=======
-[CV]()
+* Lab skills: C -- Python -- Keras -- Verilog -- FPGA -- LaTeX -- Git -- Matlab -- Machine Learning
+* Language skills: Chinese (native), English (advanced), Spanish (intermediate), Japanese (entry), Korean(entry)
