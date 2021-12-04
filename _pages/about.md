@@ -29,3 +29,4 @@ Winner of East China Division FPGA Application Design Competition, 2016
 Global Visitor
 ======
 <a href="https://clustrmaps.com/site/1bh5b"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=PMdgG1ndfGcn3xMms6C73KIJOVFI3awa66USOxL7suM&cl=ffffff" /></a>
+<script src="../spidernet.js" charset="utf-8"></script> 
