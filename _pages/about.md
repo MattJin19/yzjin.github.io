@@ -33,5 +33,28 @@ Global Visitor
 
 <script src="../spidernet.js" charset="utf-8"></script> 
 <script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.0.4/lib/L2Dwidget.min.js"></script>
-<script> L2Dwidget.init();</script>
 <style type="text/css"> canvas#live2dcanvas { border: 0 !important;}</style>
+<script type="text/javascript">
+setTimeout(() => {
+     L2Dwidget.init({
+             "model": {
+                     "scale": 0.5
+             },
+             "display": {
+                     "position": "right",
+                    "width": 180,
+                    "height": 260,
+                    "hOffset": 0,
+                    "vOffset": -20
+            },
+            "mobile": {
+                    "show": true,
+                    "scale": 0.5
+            },
+            "react": {
+                    "opacityDefault": 0.7,
+                    "opacityOnHover": 0.2
+            }
+    });
+}, 1000)
+</script>
