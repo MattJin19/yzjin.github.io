@@ -42,8 +42,8 @@ setTimeout(() => {
              },
              "display": {
                      "position": "right",
-                    "width": 180,
-                    "height": 260,
+                    "width": 90,
+                    "height": 130,
                     "hOffset": 0,
                     "vOffset": -20
             },
