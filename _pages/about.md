@@ -10,14 +10,15 @@ redirect_from:
 
 Bienvenido, Welcome to Yuanzhe's Homepage! 
 ======
-I am a Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a research assistant in Oxford e-Research Centre. My current work forcus on quality assurance in machine learning application. I am also an invited editor for Springer, IEEE Access and a student memeber in IEEE Region 10(Asian-Pacific). 
+I am a Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a research assistant in Oxford e-Research Centre with Professor Min Chen. My current work forcus on quality assurance in machine learning application which combines human and machine strengths in the machine learning model testing process. I am also an invited editor for Springer, IEEE Access and a student memeber in IEEE Region 10(Asian-Pacific). 
 
 My research interests include: 
  * Machine Learning
- * Quality Assurance
  * Computer Vision
+ * Model Testing
+ * Intelligent User Interface
 
-My hobby includes hiking, natural language learning(English, Spanish, Japanese, and a little Korean), reading novels and traveling. The pronunciation of my name in phonetic spelling is ɥæ̌n-ʈʂɤ́ː tɕīn. 
+Previously, I was a master student at Northwestern University working on applying machine learning application in embeded systems and autonomous driving.
 
 Award
 ======
