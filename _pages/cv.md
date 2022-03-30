@@ -35,6 +35,6 @@ RESEARCH AND INTERNSHIP
 
 RESEARCH SKILLS
 ======
-* Lab skills: C -- Python -- Keras -- Verilog -- FPGA -- LaTeX -- Git -- Matlab -- Machine Learning
-* Language skills: Chinese (native), English (advanced), Spanish (intermediate), Japanese (entry), Korean(entry)
+* Lab skills: C -- Python -- Keras -- PyQt5 -- FPGA -- Verilog --LaTeX -- Git -- MATLAB
+* Language skills: Chinese (native), English (advanced), Spanish (intermediate), Japanese (intermediate), Korean(entry), French(entry)
 <script src="../spidernet.js" charset="utf-8"></script>
