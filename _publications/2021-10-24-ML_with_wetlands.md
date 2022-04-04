@@ -14,5 +14,3 @@ Wetlands serve many important ecosystem services, yet the United States lacks up
 .<div align=center><img src="../images/wetland.png" width="600" height="360" />
 
 [Download paper here](https://www.sciencedirect.com/science/article/pii/S0303243421002889)
-
-Cite Us: Santiago López-Tapia, Pablo Ruiz, Mitchell Smith, Jeffrey Matthews, Bradley Zercher, Liliana Sydorenko, Neelanshi Varia, Yuanzhe Jin, Minzi Wang, Jennifer B. Dunn, Aggelos K. Katsaggelos, Machine learning with high-resolution aerial imagery and data fusion to improve and automate the detection of wetlands, International Journal of Applied Earth Observation and Geoinformation, Volume 105, 2021, 102581, ISSN 0303-2434, https://doi.org/10.1016/j.jag.2021.102581.
