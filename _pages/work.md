@@ -16,6 +16,6 @@ Three important questions that I hope to solve:
 2. Why do we trust machine learning model? If not, why do we trust the human brain?
 3. How can we trust machine learning model?
 
-.<div align=center><img src="../images/AI_graph.jpg" width="600" height="360" />
+<img src="../images/AI_graph.jpg" width="600" height="360" />
   
 <script src="../spidernet.js" charset="utf-8"></script>
