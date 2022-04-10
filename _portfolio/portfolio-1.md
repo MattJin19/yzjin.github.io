@@ -6,4 +6,4 @@ collection: Experience
 Time: 13-16.Oct.2020  
 Location: Kobe, Japan  
 Content: Oral (Remote) Presentation: LSTM Model for Single to Dual Track Piano MIDI File
-.<div align=center><img src="../images/IGCCE2020.png" width="600" height="360" />
+.<div align=center><img src="../images/IGCCE2020.png" width="800" height="360" />
