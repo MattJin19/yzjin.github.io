@@ -10,7 +10,7 @@ show_year: false
 ---
 Authors
 ===
-Yuanzhe Jin; Maorong Wang
+**Yuanzhe Jin**; Maorong Wang
 
 Abstract
 ===
