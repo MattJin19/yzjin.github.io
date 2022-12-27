@@ -8,4 +8,3 @@ author_profile: true
 import folium
 m = folium.Map()
 m
-'''
