@@ -17,6 +17,7 @@ Arc Diagram
 Sankey Diagram  
 
 <img src="../images/sankey_diagram.png" width="800" height="250" />  
+<video src="../images/sankey.mp4" width="800" height="250" />   
 
 Chord Diagram  
 
