@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Fun"
-permalink: /fun/
+title: "Library"
+permalink: /library/
 author_profile: true
 ---
 
@@ -10,21 +10,21 @@ Some Types of Visualization Diagrams and videos about their interactivity
 
 Arc Diagram  
 
-<img src="../images/arc_diagram.png" width="400" height="250" />  
+<img src="../images/arc_diagram.png" width="500" height="250" />  
 
-<img src="../images/arc_diagram_2.png" width="400" height="250" />  
+<img src="../images/arc_diagram_2.png" width="500" height="250" />  
 
 Sankey Diagram  
 
-<img src="../images/sankey_diagram.png" width="400" height="250" />  
+<img src="../images/sankey_diagram.png" width="800" height="250" />  
 
 Chord Diagram  
 
-<img src="../images/chord_diagram.png" width="400" height="250" />  
+<img src="../images/chord_diagram.png" width="400" height="300" />  
 
 Neural Network Diagram  
 
-<img src="../images/neural_diagram.png" width="400" height="250" />  
+<img src="../images/neural_diagram.png" width="700" height="250" />  
 
 Parallel Coordinated Plots  
 
