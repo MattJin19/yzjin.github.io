@@ -5,7 +5,7 @@ permalink: /library/
 author_profile: true
 ---
 
-Some Types of Visualization Diagrams developed by Python
+Some Types of Visualization Diagrams Developed by Python
 ===
 
 Arc Diagram  
