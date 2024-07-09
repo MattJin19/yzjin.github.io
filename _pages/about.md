@@ -30,7 +30,7 @@ News
 
 Award
 ======
-Marie Skłodowska-Curie Travel Scholarship to Spain 2023 & 2024
+Marie Skłodowska-Curie Travel Scholarship to Spain 2023 & 2024//
 Marie Skłodowska-Curie Travel Scholarship to Netherlands 2022
 Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
 Scholarship for Outstanding Merits, Zhejiang University, 2016  
