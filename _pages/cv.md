@@ -19,7 +19,7 @@ RESEARCH AND INTERNSHIP
 ======
 * Postgraduate researcher                                                 		Sept.2021 - Present
 	* Oxford e-Research Centre, University of Oxford, Oxford, England, UK
-  * Apply quality assurance in machine learning applications of computer vision domain.
+  * Use Python, PyQt5, and visualization methods to develop a quality assurance tool for machine learning model testing.
 * Graduate Research Assistant                                             		Sept.2020 - Aug.2021
   * Design Automation of Intelligent Systems Lab, Northwestern University, Evanston, IL, USA
   * Project Name: DSRC &V2X in Connected and Automated Vehicles
