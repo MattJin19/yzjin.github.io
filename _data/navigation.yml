@@ -4,17 +4,14 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Experience"
+  - title: "Conference"
     url: /portfolio/
 
   - title: "CV"
     url: /cv/
   
-  - title: "Work"
+  - title: "Story"
     url: /work/
   
   - title: "Contact"
     url: /contact/
-    
-  - title: "Library"
-    url: /library/
