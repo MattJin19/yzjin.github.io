@@ -23,6 +23,7 @@ Previously, I was a master's student at Northwestern University in the USA worki
 News
 =====
 [[June 18, 2024] Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)
+
 [[February 20, 2023] Glad to have an interview to share my experience in Statistics Netherlands under the NeEDS Project](https://oerc.ox.ac.uk/news/needs-met/)
 
 Award
