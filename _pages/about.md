@@ -10,18 +10,20 @@ redirect_from:
 
 Bienvenido, Welcome to Yuanzhe's Homepage! 
 ======
-I am a Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a research assistant in the Oxford e-Research Centre with Professor Min Chen. My current work focuses on quality assurance in machine learning applications which combines human and machine strengths in the machine learning model testing process. I am also an invited editor for Springer, IEEE Access, and a student member in IEEE Region 10(Asian-Pacific). 
+I am a Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre (OeRC) with Professor Min Chen. My current work focuses on quality assurance in machine learning applications which combines human and machine strengths in the machine learning model training and testing process. I am also an invited editor for Springer, IEEE Access, and a student member of IEEE Region 10(Asian-Pacific) and ACM SIGCHI. 
 
 My research interests include: 
  * Machine Learning
- * Computer Vision
- * Model Testing
+ * Visualization
  * Intelligent User Interface
+ * Model Quality Assurance
 
 Previously, I was a master's student at Northwestern University in the USA working on applying machine learning applications in embedded systems and autonomous driving.
 
 Award
 ======
+Marie Skłodowska-Curie Travel Scholarship to Spain 2023 & 2024
+Marie Skłodowska-Curie Travel Scholarship to Netherlands 2022
 Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
 Scholarship for Outstanding Merits, Zhejiang University, 2016  
 The Third Award of the FPGA Application Design Competition, 2017  
