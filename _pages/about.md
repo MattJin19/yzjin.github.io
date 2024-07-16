@@ -13,18 +13,19 @@ Bienvenido, Welcome to Yuanzhe's Homepage!
 I am a Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications which combines human and machine strengths in the machine learning model training and testing process. I am also an invited editor for Springer, IEEE Access, and a student member of IEEE Region 10(Asian-Pacific) and ACM SIGCHI. 
 
 My research interests include: 
- * Machine Learning
  * Visualization
  * Intelligent User Interface
  * Model Quality Assurance
-
+ * Machine Learning  
 Previously, I was a master's student at Northwestern University in the USA working on applying machine learning applications in embedded systems and autonomous driving.
 
 News
 =====
-[June 18, 2024] [Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)  
-[October 25, 2023] [Excited to give a presentation at IEEE VIS 2023 in Melbourne, Australia.](https://www.youtube.com/watch?v=hBAaiCz18EI)  
-[February 20, 2023] [Glad to have an interview to share my experience in Statistics Netherlands under the NeEDS Project](https://oerc.ox.ac.uk/news/needs-met/)
+[July 2024] Paper Accepted in L@S 2024, USA. First time exploring the intersection between visualization and education.
+[June 2024] [Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)  
+[October 2023] [Excited to give a presentation at IEEE VIS 2023 in Melbourne, Australia.](https://www.youtube.com/watch?v=hBAaiCz18EI)  
+[August 2023] Paper Accepted in DSA 2023, Tokyo. Look forward to the conference in Japan!
+[February 2023] [Glad to have an interview to share my experience in Statistics Netherlands under the NeEDS Project](https://oerc.ox.ac.uk/news/needs-met/)
 
 Award
 ======
