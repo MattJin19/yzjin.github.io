@@ -16,15 +16,16 @@ My research interests include:
  * Visualization
  * Intelligent User Interface
  * Model Quality Assurance
- * Machine Learning  
+ * Machine Learning
+
 Previously, I was a master's student at Northwestern University in the USA working on applying machine learning applications in embedded systems and autonomous driving.
 
 News
 =====
-[July 2024] Paper Accepted in L@S 2024, USA. First time exploring the intersection between visualization and education.
+[July 2024] Paper Accepted in L@S 2024, USA. First time exploring the intersection between visualization and education.  
 [June 2024] [Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)  
 [October 2023] [Excited to give a presentation at IEEE VIS 2023 in Melbourne, Australia.](https://www.youtube.com/watch?v=hBAaiCz18EI)  
-[August 2023] Paper Accepted in DSA 2023, Tokyo. Look forward to the conference in Japan!
+[August 2023] Paper Accepted in DSA 2023, Tokyo. Look forward to the conference in Japan!  
 [February 2023] [Glad to have an interview to share my experience in Statistics Netherlands under the NeEDS Project](https://oerc.ox.ac.uk/news/needs-met/)
 
 Award
@@ -33,8 +34,6 @@ Marie Skłodowska-Curie Travel Scholarship to Spain 2023 & 2024
 Marie Skłodowska-Curie Travel Scholarship to Netherlands 2022  
 Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
 Scholarship for Outstanding Merits, Zhejiang University, 2016  
-The Third Award of the FPGA Application Design Competition, 2017  
-Winner of East China Division FPGA Application Design Competition, 2016  
 
 Global Visitor
 ======
