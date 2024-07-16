@@ -22,11 +22,11 @@ Previously, I was a master's student at Northwestern University in the USA worki
 
 News
 =====
-[July 2024] Paper Accepted in L@S 2024, USA. First time exploring the intersection between visualization and education.  
-[June 2024] [Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)  
-[October 2023] [Excited to give a presentation at IEEE VIS 2023 in Melbourne, Australia.](https://www.youtube.com/watch?v=hBAaiCz18EI)  
-[August 2023] Paper Accepted in DSA 2023, Tokyo. Look forward to the conference in Japan!  
-[February 2023] [Glad to have an interview to share my experience in Statistics Netherlands under the NeEDS Project](https://oerc.ox.ac.uk/news/needs-met/)
+[Jul. 2024] Paper Accepted in L@S 2024, USA. First time exploring the intersection between visualization and education.  
+[Jun. 2024] [Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)  
+[Oct. 2023] [Excited to give a presentation at IEEE VIS 2023 in Melbourne, Australia.](https://www.youtube.com/watch?v=hBAaiCz18EI)  
+[Aug. 2023] Paper Accepted in DSA 2023, Tokyo. Look forward to the conference in Japan!  
+[Feb. 2023] [Glad to have an interview to share my experience in Statistics Netherlands under the NeEDS Project](https://oerc.ox.ac.uk/news/needs-met/)
 
 Award
 ======
