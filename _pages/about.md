@@ -26,6 +26,7 @@ News
 [Jun. 2024] [Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)  
 [Oct. 2023] [Excited to give a presentation at IEEE VIS 2023 in Melbourne, Australia.](https://www.youtube.com/watch?v=hBAaiCz18EI)  
 [Aug. 2023] Paper Accepted in DSA 2023, Tokyo. Look forward to the conference in Japan!  
+[Jul. 2023] Paper Accepted in VIS 2023, Melbourne. Look forward to the conference in Australia!  
 [Feb. 2023] [Glad to have an interview to share my experience in Statistics Netherlands under the NeEDS Project](https://oerc.ox.ac.uk/news/needs-met/)
 
 Award
