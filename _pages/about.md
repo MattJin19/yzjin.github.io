@@ -15,8 +15,8 @@ I am a Ph.D. student majoring in Computer Engineering at the University of Oxfor
 My research interests include: 
  * Visualization
  * Intelligent User Interface
- * Model Quality Assurance
- * Machine Learning
+ * Machine Learning Model Quality Assurance
+ * Biomedical Data Analysis
 
 Previously, I was a master's student at Northwestern University in the USA working on applying machine learning applications in embedded systems and autonomous driving.
 
