@@ -31,7 +31,6 @@ News
 
 Award
 ======
-CAMLIS Student Travel Scholarship, 2024  
 Marie Skłodowska-Curie Travel Scholarship to Spain, 2023 & 2024  
 Marie Skłodowska-Curie Travel Scholarship to Netherlands, 2022  
 Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
