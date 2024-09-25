@@ -19,15 +19,21 @@ RESEARCH AND INTERNSHIP
 ======
 * Postgraduate researcher                                                 		Sept.2021 - Present
   * Oxford e-Research Centre, University of Oxford, Oxford, England, UK
-  * Use Python, PyQt5, and visualization methods to develop a quality assurance tool for machine learning model testing.
-* Visiting Researcher                                             		         Nov.2023 - Jun.2024
+  * Use Python, PyQt5, and visualization methods to develop a quality assurance tool for ML model testing.
+* Visiting Researcher                                             		          Nov.2023 - Jun.2024
   * Inetum, Madrid, Spain
-  * Implement new visual design and model testing for text classification tasks at FabLab.
-* Graduate Research Assistant                                             		Sept.2020 - Aug.2021
+  * Implement new visual design and generative AI for supporting text classification ML models at FabLab.
+* Visiting Intern                                                               May.2023 - Jul.2023
+  * Paris, Île-de-France, France
+  * Design visualization tools for dynamic time series data analysis to help machine learning model training at Ex)situ Team.
+* Visiting Researcher                                            		            Aug.2022 - Nov.2022
+  * Statistics Netherlands, Heerlen, Netherlands
+  * Designed an ML model quality assurance tool for time series classification tasks collected from wearable devices.
+* Graduate Research Assistant                                             		  Sept.2020 - Aug.2021
   * Design Automation of Intelligent Systems Lab, Northwestern University, Evanston, IL, USA
   * Project Name: DSRC &V2X in Connected and Automated Vehicles
   * Use machine learning to predict the behavior between autonomous vehicles and improve efficiency in traffic.
-* Visiting Research Assistant                                             		Jun. - Sept.2020
+* Visiting Research Assistant                                             		   Jun. - Sept.2020
   * Information Science Institute, University of Southern California, Los Angeles, CA, USA
   * Project Name: Improve and Extend the CIFT Software Application on FPGA Platform 
   * Assisted in adding support for tracking and reporting device coverage information on CIFT.
