@@ -33,7 +33,7 @@ RESEARCH AND INTERNSHIP
   * Design Automation of Intelligent Systems Lab, Northwestern University, Evanston, IL, USA
   * Project Name: DSRC &V2X in Connected and Automated Vehicles
   * Use machine learning to predict the behavior between autonomous vehicles and improve efficiency in traffic.
-* Visiting Research Assistant                                             		   Jun. - Sept.2020
+* Visiting Research Assistant                                             		   Jun.2020 - Sept.2020
   * Information Science Institute, University of Southern California, Los Angeles, CA, USA
   * Project Name: Improve and Extend the CIFT Software Application on FPGA Platform 
   * Assisted in adding support for tracking and reporting device coverage information on CIFT.
