@@ -24,10 +24,10 @@ RESEARCH AND INTERNSHIP
   * Inetum, Madrid, Spain
   * Implement new visual design and generative AI for supporting text classification ML models at FabLab.
 * Visiting Intern                                                               May.2023 - Jul.2023
-  * Paris, Île-de-France, France
+  * Inria/Université Paris-Saclay, Paris, Île-de-France, France
   * Design visualization tools for dynamic time series data analysis to help machine learning model training at Ex)situ Team.
 * Visiting Researcher                                            		            Aug.2022 - Nov.2022
-  * Statistics Netherlands, Heerlen, Netherlands
+  * Statistics Netherlands(CBS), Heerlen, Netherlands
   * Designed an ML model quality assurance tool for time series classification tasks collected from wearable devices.
 * Graduate Research Assistant                                             		  Sept.2020 - Aug.2021
   * Design Automation of Intelligent Systems Lab, Northwestern University, Evanston, IL, USA
