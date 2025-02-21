@@ -10,7 +10,7 @@ redirect_from:
 
 Bienvenido, Welcome to Yuanzhe's Homepage! 
 ======
-I am a Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications which combines human and machine strengths in the machine learning model training and testing process. I am also an invited editor for Springer, IEEE Access, and a student member of IEEE Region 10(Asian-Pacific) and ACM SIGCHI. 
+I am a Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications which combines human and machine strengths in the machine learning model training and testing process. I am also an invited editor for Springer, IEEE Access, a reviewer for ACM CHI, EuroVIS, and a student member of IEEE Region 10(Asian-Pacific) and ACM SIGCHI. 
 
 My research interests include: 
  * Visualization
