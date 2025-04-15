@@ -38,8 +38,8 @@ Scholarship for Outstanding Merits, Zhejiang University, 2016
 Academic Service
 =====
 Invited Editor for **Springer** and **IEEE Access**  
-Reviewer for **VIS**, **ACM CHI**, **EuroVIS**, **KDD**, **ICLR**
-Student Member of **IEEE Region 10**(Asian-Pacific) and **ACM SIGCHI**. 
+Reviewer for **VIS**, **ACM CHI**, **EuroVIS**, **KDD**, **ICLR**  
+Student Member of **IEEE Region 10**(Asian-Pacific) and **ACM SIGCHI**  
 
 Global Visitor
 ======
