@@ -18,6 +18,8 @@ My research interests include:
  * Machine Learning Model Quality Assurance
  * Biomedical Data Analysis
 
+I am honored to be in the Network of European Data Scientists(NeEDS) project and collaborate with Statistics Netherlands, Inetum Spain, and Inria.
+
 News
 =====
 [Jul. 2024] Paper Accepted in L@S 2024, USA. First time exploring the intersection between visualization and education.  
