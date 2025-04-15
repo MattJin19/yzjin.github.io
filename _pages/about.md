@@ -18,7 +18,7 @@ My research interests include:
  * Machine Learning Model Quality Assurance
  * Biomedical Data Analysis
 
-I am honored to be in the Network of European Data Scientists(NeEDS) project and collaborate with Statistics Netherlands, Inetum Spain, and Inria.
+I am honored to be in the Network of European Data Scientists[(NeEDS)](https://riseneeds.eu/secondments/previous-secondments-university-of-oxford/yuanzhe-jin-at-centraal-bureau-voor-de-statistiek/) project and collaborate with Statistics Netherlands, Inetum Spain, and Inria.
 
 News
 =====
