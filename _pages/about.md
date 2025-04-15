@@ -10,15 +10,13 @@ redirect_from:
 
 Bienvenido, Welcome to Yuanzhe's Homepage! 
 ======
-I am a final-year Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications which combines human and machine strengths in the machine learning model training and testing process. I am also an invited editor for Springer, IEEE Access, a reviewer for ACM CHI, EuroVIS, and a student member of IEEE Region 10(Asian-Pacific) and ACM SIGCHI. 
+I am a final-year Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications, which combines human and machine strengths in the machine learning model training and testing process. 
 
 My research interests include: 
  * Visualization
  * Intelligent User Interface
  * Machine Learning Model Quality Assurance
  * Biomedical Data Analysis
-
-Previously, I was a master's student at Northwestern University in the USA working on applying machine learning applications in embedded systems and autonomous driving.
 
 News
 =====
@@ -36,6 +34,12 @@ Marie Skłodowska-Curie Travel Scholarship to Spain, 2023 & 2024
 Marie Skłodowska-Curie Travel Scholarship to Netherlands, 2022  
 Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
 Scholarship for Outstanding Merits, Zhejiang University, 2016  
+
+Academic Service
+=====
+Invited Editor for **Springer** and **IEEE Access**  
+Reviewer for **VIS**, **ACM CHI**, **EuroVIS**, **KDD**, **ICLR**
+Student Member of **IEEE Region 10**(Asian-Pacific) and **ACM SIGCHI**. 
 
 Global Visitor
 ======
