@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Bienvenido, Welcome to Yuanzhe's Homepage! 
+Welcome to Yuanzhe Jin's Homepage! 
 ======
 I am a final-year Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications, which combines human and machine strengths in the machine learning model training and testing process. 
 
 My research interests include: 
- * Visualization
+ * Data Visualization
  * Intelligent User Interface
  * Machine Learning Model Quality Assurance
  * Biomedical Data Analysis
@@ -22,25 +22,27 @@ I am honored to be in the Network of European Data Scientists[(NeEDS)](https://r
 
 News
 =====
-[Jul. 2024] Paper Accepted in L@S 2024, USA. First time exploring the intersection between visualization and education.  
+[Jul. 2025] Paper Accepted in IEEE ICTMOD 2025, Glasgow, UK. A collaborative work with a local education institute to explore LLM applications.
+[Jul. 2025] Paper Accepted in ECAI 2025, Bologna, Italy. I will attend CLEAR-WS in ECAI this October!
+[Jul. 2024] Paper Accepted in L@S 2024, Atlanta, USA. First time exploring the intersection between visualization and education.  
 [Jun. 2024] [Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)  
 [Oct. 2023] [Excited to give a presentation at IEEE VIS 2023 in Melbourne, Australia.](https://www.youtube.com/watch?v=hBAaiCz18EI)  
-[Aug. 2023] Paper Accepted in DSA 2023, Tokyo. Look forward to the conference in Japan!  
-[Jul. 2023] Paper Accepted in VIS 2023, Melbourne. Look forward to the conference in Australia!  
+[Aug. 2023] Paper Accepted in IEEE DSA 2023, Tokyo, Japan. Look forward to the conference in Japan!  
+[Jul. 2023] Paper Accepted in IEEE VIS 2023, Melbourne, Australia. Look forward to the conference in Australia!  
 [Feb. 2023] [Glad to have an interview to share my experience in Statistics Netherlands under the NeEDS Project](https://oerc.ox.ac.uk/news/needs-met/)
 
 Award
 ======
 CAMLIS Student Scholarship, 2024  
 Marie Skłodowska-Curie Travel Scholarship to Spain, 2023 & 2024  
-Marie Skłodowska-Curie Travel Scholarship to Netherlands, 2022  
+Marie Skłodowska-Curie Travel Scholarship to the Netherlands, 2022  
 Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  
 Scholarship for Outstanding Merits, Zhejiang University, 2016  
 
 Academic Service
 =====
 Invited Editor for **Springer** and **IEEE Access**  
-Reviewer for **VIS**, **ACM CHI**, **EuroVIS**, **KDD**, **ICLR**  
+Reviewer for **VIS**, **ACM CHI**, **EuroVIS**, **KDD**, **ICLR**, **AAAI**
 Student Member of **IEEE Region 10**(Asian-Pacific) and **ACM SIGCHI**  
 
 Global Visitor
