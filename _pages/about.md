@@ -23,9 +23,10 @@ I am honored to be in the Network of European Data Scientists[(NeEDS)](https://r
 News
 =====
 [Jul. 2025] Paper Accepted in IEEE ICTMOD 2025, Glasgow, UK. A collaborative work with a local education institute to explore LLM applications.  
-[Jul. 2025] Paper Accepted in ECAI 2025, Bologna, Italy. I will attend CLEAR-WS in ECAI this October!  
+[Jul. 2025] Paper Accepted in ECAI 2025, Bologna, Italy. I will attend CLEAR-WS in ECAI this October! 
+[Jul. 2025] Attend ChinaVIS 2025 in Hangzhou, China! Glad to meet excellent researchers all around the world.   
 [Oct. 2024] Receive CAMLIS Student Scholarship in Washington, DC, US.    
-[Jul. 2024] Paper Accepted in L@S 2024, Atlanta, USA. First time exploring the intersection between visualization and education.  
+[Jul. 2024] Paper Accepted in L@S 2024, Atlanta, US. First time exploring the intersection between visualization and education.  
 [Jun. 2024] [Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)  
 [Oct. 2023] [Excited to give a presentation at IEEE VIS 2023 in Melbourne, Australia.](https://www.youtube.com/watch?v=hBAaiCz18EI)  
 [Aug. 2023] Paper Accepted in IEEE DSA 2023, Tokyo, Japan. Look forward to the conference in Japan!  
