@@ -22,6 +22,7 @@ I am honored to be in the Network of European Data Scientists[(NeEDS)](https://r
 
 News
 =====
+[Aug. 2025] Paper Accepted in IEEE DSC 2025, Taiwan. A visual classification framework for different model robustness testing methods is proposed.  
 [Aug. 2025] Two Papers Accepted in IEEE CBD 2025, Hakodate, Japan. Excited to receive the recognition from the Big Data community for the work in visual support for machine learning.  
 [Jul. 2025] Paper Accepted in IEEE ICTMOD 2025, Glasgow, UK. A collaborative work with a local education institute to explore LLM applications.  
 [Jul. 2025] Paper Accepted in ECAI 2025, Bologna, Italy. I will attend CLEAR-WS in ECAI this October!  
