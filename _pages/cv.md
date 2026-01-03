@@ -11,13 +11,13 @@ redirect_from:
 
 EDUCATION
 ======
-* Ph.D. in Computer Engineering, University of Oxford, 2021 - 2025 (expected)
+* Ph.D. in Computer Engineering, University of Oxford, 2021 - 2026
 * M.S. in Computer Engineering, Northwestern University, 2019 - 2021
 * B.E. in Electrical Engineering, Zhejiang University, 2015 - 2019
 
 RESEARCH AND INTERNSHIP
 ======
-* Postgraduate researcher                                                 		Sept.2021 - Present
+* Postgraduate Researcher                                                 		Sept.2021 - Present
   * Oxford e-Research Centre, University of Oxford, Oxford, England, UK
   * Use Python, PyQt5, and visualization methods to develop a quality assurance tool for ML model testing.
 * Visiting Researcher                                             		          Nov.2023 - Jun.2024
