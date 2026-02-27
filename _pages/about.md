@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to Yuanzhe Jin's Homepage! 
 ======
-I am a final-year Ph.D. student majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications, which combines human and machine strengths in the machine learning model training and testing process. 
+I am a Ph.D. graduate majoring in Computer Engineering at the University of Oxford, working as a postgraduate research assistant at the Oxford e-Research Centre [(OeRC)](https://oerc.ox.ac.uk/) with Professor [Min Chen](https://sites.google.com/view/mchen). My current work focuses on quality assurance in machine learning applications, which combines human and machine strengths in the machine learning model training and testing process. 
 
 My research interests include: 
  * Data Visualization
