@@ -26,12 +26,9 @@ News
 [Jan. 2026] Paper Accepted in ACM CHI 2026, Barcelona, Spain! An interactive visualization tool for feature editing techniques in time series data. My collaborator will present the work in Barcelona.  
 [Jan. 2026] Paper Accepted in IEEE ICCT-Pacific 2026, Yamaguchi, Japan. An interactive model visualization is proposed for the decision tree model using the scikit-learn library.  
 [Oct. 2025] Paper Accepted in IEEE ETECOM 2025, Bahrain. A novel visual design is proposed for high-density data in industry.  
-<!-- [Aug. 2025] Paper Accepted in IEEE DSC 2025, Taiwan. A visual classification framework and taxonomy for different model robustness testing methods are proposed.  -->
 [Aug. 2025] Two Papers Accepted in IEEE CBDCom 2025, Hakodate, Japan. Excited to receive the recognition from the Big Data community for the work in visual support for machine learning.  
-[Jul. 2025] Paper Accepted in IEEE ICTMOD 2025, Glasgow, UK. A collaborative work with a local education institute to explore LLM applications. I will present the work in Glasgow in October.    
-<!-- [Jul. 2025] Paper Accepted in ECAI 2025, Bologna, Italy. I will attend CLEAR-WS in ECAI this October!  -->
+[Jul. 2025] Paper Accepted in IEEE ICTMOD 2025, Glasgow, UK. A collaborative work with a local education institute to explore LLM applications. I will present the work in Glasgow in October.
 [Jul. 2025] Attend ChinaVIS 2025 in Hangzhou, China! Glad to meet excellent researchers all around the world.  
-<!-- [Oct. 2024] Receive CAMLIS Student Scholarship in Washington, DC, US.  -->  
 [Jul. 2024] Paper Accepted in ACM L@S 2024, Atlanta, US. First time exploring the intersection between visualization and education.  
 [Jun. 2024] [Glad to have a collaboration with Adrian Carrasco-Revilla from Inetum Spain.](https://oerc.ox.ac.uk/news/collaboration-the-key-to-growing/)  
 [Oct. 2023] [Excited to give a presentation at IEEE VIS 2023 in Melbourne, Australia.](https://www.youtube.com/watch?v=hBAaiCz18EI)  
@@ -41,11 +38,8 @@ News
 
 Award
 ======
-<!-- CAMLIS Student Scholarship, 2024  -->
 Marie Skłodowska-Curie Travel Scholarship to Spain, 2023 & 2024  
 Marie Skłodowska-Curie Travel Scholarship to the Netherlands, 2022  
-<!-- Outstanding Student Leader Awards, Zhejiang University, 2017 & 2018  -->
-<!-- Scholarship for Outstanding Merits, Zhejiang University, 2016  -->
 
 Academic Service
 =====
