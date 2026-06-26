@@ -21,8 +21,10 @@ I am honored to be in the Network of European Data Scientists[(NeEDS)](https://r
 
 News
 =====
+[Jun. 2026] Three Abstracts Accepted in SMISS 2026, Las Vegas, USA! One was selected for podium presentation, featuring our visual analysis method for spine surgery epoch division strategy.  
+[May. 2026] One Abstract Accepted in NASS 2026, San Antonio, USA! A visual analysis of the association between the PROMs and Steps.  
 [Feb. 2026] One Abstract Accepted in LSRS 2026, Chicago, USA! A visual analysis method for the spine surgery epoch division strategy was proposed.  
-[Jan. 2026] Two Abstracts Accepted in ISASS 2026, Miami, USA! A collaboration with visual analysis and modeling of spine surgery recovery data.  
+[Jan. 2026] Two Abstracts Accepted in ISASS 2026, Miami, USA, including one selected for podium presentation! A collaboration with visual analysis and modeling of spine surgery recovery data.  
 [Jan. 2026] Paper Accepted in ACM CHI 2026, Barcelona, Spain! An interactive visualization tool for feature editing techniques in time series data. My collaborator will present the work in Barcelona.  
 [Jan. 2026] Paper Accepted in IEEE ICCT-Pacific 2026, Yamaguchi, Japan. An interactive model visualization is proposed for the decision tree model using the scikit-learn library.  
 [Oct. 2025] Paper Accepted in IEEE ETECOM 2025, Bahrain. A novel visual design is proposed for high-density data in industry.  
@@ -46,6 +48,10 @@ Academic Service
 Invited Editor for **Springer** and **IEEE Access**  
 Reviewer for **VIS**, **ACM CHI**, **EuroVIS**, **KDD**, **ICLR**, **AAAI**  
 Student Member of **IEEE Region 10**(Asian-Pacific) and **ACM SIGCHI**  
+
+Most Recent Update
+======
+June 25, 2026
 
 Global Visitor
 ======
