@@ -55,4 +55,4 @@ June 25, 2026
 
 Global Visitor
 ======
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=OG4yiXlldBdu9A6z4chZuM_ynSngMWWMH_zQ2MDkIe8"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=tYHHAaE_3TnypeSWof57TtHTmaldSjv3MnNou7GgW4U&cl=ffffff&w=a"></script>
