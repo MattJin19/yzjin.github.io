@@ -55,33 +55,4 @@ June 25, 2026
 
 Global Visitor
 ======
-<a href="https://clustrmaps.com/site/1bh5b"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=PMdgG1ndfGcn3xMms6C73KIJOVFI3awa66USOxL7suM&cl=ffffff" /></a>
-
-
-<script src="../spidernet.js" charset="utf-8"></script> 
-<script src="https://cdn.jsdelivr.net/npm/live2d-widget@3.0.4/lib/L2Dwidget.min.js"></script>
-<style type="text/css"> canvas#live2dcanvas { border: 0 !important;}</style>
-<script type="text/javascript">
-setTimeout(() => {
-     L2Dwidget.init({
-             "model": {
-                     "scale": 0.5
-             },
-             "display": {
-                     "position": "right",
-                    "width": 90,
-                    "height": 130,
-                    "hOffset": 0,
-                    "vOffset": -20
-            },
-            "mobile": {
-                    "show": true,
-                    "scale": 0.5
-            },
-            "react": {
-                    "opacityDefault": 0.7,
-                    "opacityOnHover": 0.2
-            }
-    });
-}, 1000)
-</script>
+<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=OG4yiXlldBdu9A6z4chZuM_ynSngMWWMH_zQ2MDkIe8"></script>
