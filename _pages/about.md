@@ -21,7 +21,8 @@ I am honored to be in the Network of European Data Scientists[(NeEDS)](https://r
 
 News
 =====
-[Jul. 2026] One Abstract Accepted in NSC 2026, Seoul, South Korea! I will be in Seoul in September for the rapid-fire podium and share our work with the experts.  
+[Jul. 2026] Two Abstracts Accepted in CNS 2026, Washington, DC. 
+[Jul. 2026] Two Abstracts Accepted in NSC 2026, Seoul, South Korea! I will be in Seoul in September for the rapid-fire podium and share our work with the experts.  
 [Jun. 2026] Three Abstracts Accepted in SMISS 2026, Las Vegas, USA! One was selected for podium presentation, featuring our visual analysis method for spine surgery epoch division strategy.  
 [May. 2026] One Abstract Accepted in NASS 2026, San Antonio, USA! A visual analysis of the association between the PROMs and Steps.  
 [Feb. 2026] One Abstract Accepted in LSRS 2026, Chicago, USA! A visual analysis method for the spine surgery epoch division strategy was proposed.  
@@ -49,10 +50,11 @@ Academic Service
 Invited Editor for **Springer** and **IEEE Access**  
 Reviewer for **VIS**, **ACM CHI**, **EuroVIS**, **KDD**, **ICLR**, **AAAI**  
 Student Member of **IEEE Region 10**(Asian-Pacific) and **ACM SIGCHI**  
+IEEE Consumer Technology Society Technical Committee Member of Human-Machine Interaction and User Experience (HMI)  
 
 Most Recent Update
 ======
-July 17, 2026
+July 30, 2026
 
 Global Visitor
 ======
