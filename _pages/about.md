@@ -50,7 +50,7 @@ Academic Service
 Invited Editor for **Springer** and **IEEE Access**  
 Reviewer for **VIS**, **ACM CHI**, **EuroVIS**, **KDD**, **ICLR**, **AAAI**  
 Student Member of **IEEE Region 10**(Asian-Pacific) and **ACM SIGCHI**  
-IEEE Consumer Technology Society Technical Committee Member of Human-Machine Interaction and User Experience (HMI)  
+IEEE Consumer Technology Society Technical **Committee Member** of Human-Machine Interaction and User Experience (HMI)  
 
 Most Recent Update
 ======
