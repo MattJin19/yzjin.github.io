@@ -58,4 +58,4 @@ July 30, 2026
 
 Global Visitor
 ======
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=tYHHAaE_3TnypeSWof57TtHTmaldSjv3MnNou7GgW4U&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=ejQecL_11n-oNRD_1eLdaFkQfzi4TET4xGU1ahA5a3U&cl=ffffff&w=a"></script>
