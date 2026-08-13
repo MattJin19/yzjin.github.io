@@ -288,4 +288,4 @@ Department of Neurological Surgery
 
 <script src="https://unpkg.com/globe.gl"></script>
 
-<script src="{{ '/assets/js/experience-globe.js' | relative_url }}"></script>
+<script src="{{ '/assets/js/experience-globe.js' }}"></script>
