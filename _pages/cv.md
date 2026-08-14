@@ -15,13 +15,17 @@ EDUCATION
 * M.S. in Computer Engineering, Northwestern University, 2019 - 2021
 * B.E. in Electrical Engineering, Zhejiang University, 2015 - 2019
 
+
+
 RESEARCH AND INTERNSHIP
 ======
 {% include globe-timeline.html %}
 
+
+
 RESEARCH SKILLS
 ======
 * Lab skills: C -- Python -- Keras -- PyQt5 -- FPGA -- Verilog --LaTeX -- Git -- MATLAB
-* Language skills: Chinese (native), English (advanced), Spanish (intermediate), Japanese (intermediate)
+* Language skills: Chinese (native), English (advanced), Spanish (intermediate), Japanese (N3)
 
 <script src="../spidernet.js" charset="utf-8"></script>
