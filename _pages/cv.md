@@ -17,7 +17,7 @@ EDUCATION
 
 
 
-RESEARCH AND INTERNSHIP
+RESEARCH JOURNEY
 ======
 {% include globe-timeline.html %}
 
