@@ -12,6 +12,7 @@ EDUCATION
 * Ph.D. in Computer Engineering, University of Oxford, 2021 - 2026
 * M.S. in Computer Engineering, Northwestern University, 2019 - 2021
 * B.E. in Electrical Engineering, Zhejiang University, 2015 - 2019
+  
 RESEARCH AND INTERNSHIP
 ======
 * Postgraduate Researcher                                                         Sept.2021 - Present
@@ -34,6 +35,7 @@ RESEARCH AND INTERNSHIP
   * Information Science Institute, University of Southern California, Los Angeles, CA, USA
   * Project Name: Improve and Extend the CIFT Software Application on FPGA Platform 
   * Assisted in adding support for tracking and reporting device coverage information on CIFT.
+    
 RESEARCH SKILLS
 ======
 * Lab skills: C -- Python -- Keras -- PyQt5 -- FPGA -- Verilog --LaTeX -- Git -- MATLAB
