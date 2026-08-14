@@ -23,3 +23,5 @@ RESEARCH SKILLS
 ======
 * Lab skills: C -- Python -- Keras -- PyQt5 -- FPGA -- Verilog --LaTeX -- Git -- MATLAB
 * Language skills: Chinese (native), English (advanced), Spanish (intermediate), Japanese (intermediate)
+* 
+<script src="../spidernet.js" charset="utf-8"></script>
