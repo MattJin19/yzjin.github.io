@@ -1,0 +1,80 @@
+  #globe-timeline-root {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  }
+  .gt-item {
+    display: grid;
+    grid-template-columns: 110px 1px 1fr;
+    gap: 18px;
+    padding: 18px 0;
+    border-bottom: 1px solid #eee;
+    cursor: pointer;
+    transition: background 0.2s ease;
+    position: relative;
+  }
+  .gt-item:hover, .gt-item.active {
+    background: #fafafa;
+  }
+  .gt-date {
+    font-size: 13px;
+    color: #999;
+    line-height: 1.5;
+    text-align: right;
+  }
+  .gt-item.active .gt-date { color: #c0392b; }
+  .gt-divider { background: #eee; }
+  .gt-body .gt-title {
+    font-size: 17px;
+    font-weight: 600;
+    color: #1a1a1a;
+    margin: 0 0 4px 0;
+  }
+  .gt-item.active .gt-body .gt-title { color: #c0392b; }
+  .gt-body .gt-org {
+    font-size: 14px;
+    color: #333;
+    margin: 0 0 2px 0;
+  }
+  .gt-body .gt-loc {
+    font-size: 13px;
+    color: #999;
+    margin: 0 0 2px 0;
+  }
+  .gt-body .gt-note {
+    font-size: 13px;
+    color: #999;
+    font-style: italic;
+    margin: 4px 0 0 0;
+  }
+
+  /* 地球样式 */
+  .gt-sphere { fill: #ffffff; stroke: #d8dde3; stroke-width: 1; }
+  .gt-graticule { fill: none; stroke: #eef1f4; stroke-width: 0.6; }
+  .gt-land { fill: #eef2f6; stroke: #d4dbe2; stroke-width: 0.6; }
+  .gt-point {
+    fill: #c9a3a3;
+    stroke: #fff;
+    stroke-width: 1.5;
+    transition: r 0.25s ease, fill 0.25s ease;
+  }
+  .gt-point.active {
+    fill: #c0392b;
+  }
+  .gt-label {
+    font-size: 11px;
+    fill: #c0392b;
+    font-weight: 600;
+    pointer-events: none;
+  }
+
+  /* 跨栏连接虚线 */
+  .gt-connector-line {
+    fill: none;
+    stroke: #e0a0a0;
+    stroke-width: 1.3;
+    stroke-dasharray: 4 3;
+    opacity: 0;
+    transition: opacity 0.25s ease;
+  }
+  .gt-connector-line.visible {
+    opacity: 0.9;
+  }
