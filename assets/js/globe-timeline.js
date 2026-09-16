@@ -49,14 +49,16 @@
     note: "Applied machine learning methods for connected and automated vehicle behavior prediction",
     coords: [-87.6753, 42.0565]
   },
-  {
+/*  
+{
     date: "06/2020 - 09/2020",
     title: "Visiting Research Assistant",
     org: "Information Sciences Institute, University of Southern California",
     loc: "Los Angeles, CA, USA",
     note: "Extended CIFT software on FPGA platform with device coverage tracking and reporting support",
     coords: [-118.4514, 33.9803]
-  }
+ }
+ */
 ];
   // ====================================================================
 
