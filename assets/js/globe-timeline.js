@@ -1,8 +1,16 @@
 (function () {
-  // ==================== 1. 在这里配置你的经历数据 ====================
+  // ==================== configure your experiences ====================
   const EXPERIENCES = [
   {
-    date: "09/2021 - Present",
+    date: "09/2026 - Present",
+    title: "Postdoctoral Scholar",
+    org: "Department of Neurosurgery, University of California, San Francisco",
+    loc: "San Francisco, California, USA",
+    note: "Develop interactive visual analytics tools to help clinicians and researchers explore and interpret complex health data",
+    coords: [-122.4194, 37.7750]
+  },
+  {
+    date: "09/2021 - 08/2026",
     title: "Postgraduate Researcher",
     org: "Oxford e-Research Centre, University of Oxford",
     loc: "Oxford, England, UK",
