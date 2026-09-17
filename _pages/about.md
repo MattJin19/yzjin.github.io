@@ -24,7 +24,7 @@ I am honored to be in the Network of European Data Scientists[(NeEDS)](https://r
 News
 =====
 [Jul. 2026] Three Abstracts Accepted at CNS 2026, Washington, DC, on digital health and neurological research.  
-[Jul. 2026] Two Abstracts Accepted at NSC 2026, Seoul, South Korea, on smartphone-based mobility analysis and functional recovery after spine surgery. 
+[Jul. 2026] Two Abstracts Accepted at NSC 2026, Seoul, South Korea, on smartphone-based mobility analysis and functional recovery after spine surgery.  
 [Jun. 2026] Three Abstracts Accepted at SMISS 2026, Las Vegas, USA! One was selected for a podium presentation, featuring our visual analysis method for spine surgery epoch division strategy.  
 [May. 2026] One Abstract Accepted at NASS 2026, San Antonio, USA! A visual analysis of the association between the PROMs and Steps. I will be in San Antonio this October to give a 5-minute presentation of our findings using visualization methods.    
 [Feb. 2026] One Abstract Accepted at LSRS 2026, Chicago, USA! A visual analysis method for the spine surgery epoch division strategy was proposed.  
