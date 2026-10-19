@@ -23,11 +23,12 @@ I am honored to be in the Network of European Data Scientists[(NeEDS)](https://r
 
 News
 =====
+[Oct. 2026] One Abstract Accepted at ISDS 2026, New York, USA! I will be in New York to present our work on an unsupervised approach to uncover meaningful patterns and insights from the wearable device data.  
 [Sept. 2026] Received an SMISS Research Grant with Dr. Yoon for "From Endoscopic Spine Video to Surgical Understanding: Annotated Spine Endoscopy Videos and AI Models for Anatomy and Procedural Steps".  
 [Jul. 2026] Three Abstracts Accepted at CNS 2026, Washington, DC, on digital health and neurological research.  
-[Jul. 2026] Two Abstracts Accepted at NSC 2026, Seoul, South Korea, on smartphone-based mobility analysis and functional recovery after spine surgery.  
+[Jul. 2026] Two Abstracts Accepted at NSC 2026, Seoul, South Korea, on [smartphone-based mobility analysis and functional recovery after spine surgery](https://lnkd.in/p/ghVanzbQ).  
 [Jun. 2026] Three Abstracts Accepted at SMISS 2026, Las Vegas, USA! One was selected for a podium presentation, featuring our visual analysis method for spine surgery epoch division strategy.  
-[May. 2026] One Abstract Accepted at NASS 2026, San Antonio, USA! A visual analysis of the association between the PROMs and Steps. I will be in San Antonio this October to give a 5-minute presentation of our findings using visualization methods.    
+[May. 2026] One Abstract Accepted at NASS 2026, San Antonio, USA! A visual analysis of the association between the PROMs and Steps. I will be in San Antonio this October to give a [5-minute presentation](https://lnkd.in/p/giF5784N) of our findings using visualization methods.    
 [Feb. 2026] One Abstract Accepted at LSRS 2026, Chicago, USA! A visual analysis method for the spine surgery epoch division strategy was proposed.  
 [Jan. 2026] Two Abstracts Accepted at ISASS 2026, Miami, USA, including one selected for a podium presentation! A collaboration with visual analysis and modeling of spine surgery recovery data.  
 [Jan. 2026] Paper Accepted at ACM CHI 2026, Barcelona, Spain! An interactive visualization tool for feature editing techniques in time series data. My collaborator will present the work in Barcelona.  
@@ -58,7 +59,7 @@ IEEE Consumer Technology Society Technical [**Committee Member**](https://ctsoc.
 
 Most Recent Update
 ======
-Sept. 15, 2026
+Oct. 15, 2026
 
 Global Visitor
 ======
